@@ -89,3 +89,4 @@ INSERT INTO books (title, author_id, year, genre_id, description, added_by_user_
 ('The Lord of the Rings', 6, 1954, 4, 'An epic high-fantasy novel.', 3),
 ('Animal Farm', 2, 1945, 5, 'An allegorical novella about Soviet totalitarianism.', 4),
 ('Brave New World', 8, 1932, 2, 'A dystopian novel set in a futuristic World State.', 5);
+
